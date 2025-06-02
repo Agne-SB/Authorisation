@@ -1,23 +1,23 @@
-# Use .NET SDK image to build the project
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy solution and project files using correct names
+# Copy solution and project files
 COPY ./AuthSolution.sln .
-COPY ./Authorisation/Authorisation.csproj ./Authorisation/
+COPY ./AuthApplication.API/AuthApplication.API.csproj ./AuthApplication.API/
 RUN dotnet restore
 
 # Copy everything else
 COPY . .
-WORKDIR /src/Authorisation
+WORKDIR /src/AuthApplication.API
 RUN dotnet publish -c Release -o /app/publish
 
-# Use ASP.NET Core runtime image for final container
+# Runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build /app/publish .
 
 EXPOSE 80
-ENTRYPOINT ["dotnet", "Authorisation.dll"]
+ENTRYPOINT ["dotnet", "AuthApplication.API.dll"]
+
 
 
