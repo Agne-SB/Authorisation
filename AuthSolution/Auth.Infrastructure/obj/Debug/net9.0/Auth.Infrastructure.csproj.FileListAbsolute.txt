@@ -1,0 +1,17 @@
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Infrastructure.csproj.AssemblyReference.cache
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Infrastructure.AssemblyInfoInputs.cache
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Infrastructure.AssemblyInfo.cs
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/bin/Debug/net9.0/Auth.Infrastructure.deps.json
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/bin/Debug/net9.0/Auth.Infrastructure.dll
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/bin/Debug/net9.0/Auth.Infrastructure.pdb
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/bin/Debug/net9.0/Auth.Application.dll
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/bin/Debug/net9.0/Auth.Domain.dll
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/bin/Debug/net9.0/Auth.Application.pdb
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/bin/Debug/net9.0/Auth.Domain.pdb
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Inf.EC29ECAC.Up2Date
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Infrastructure.dll
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/refint/Auth.Infrastructure.dll
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/Auth.Infrastructure.pdb
+/Users/agne/AuthSolution microservice/AuthSolution/Auth.Infrastructure/obj/Debug/net9.0/ref/Auth.Infrastructure.dll

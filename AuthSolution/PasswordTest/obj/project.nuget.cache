@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kdl82BfFhsw=",
+  "success": true,
+  "projectFilePath": "/Users/agne/AuthSolution microservice/AuthSolution/PasswordTest/PasswordTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/agne/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
